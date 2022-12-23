@@ -5,7 +5,7 @@
 # 42 Wolfsburg Piscine 
 ## Shell_00
 
-This was the first real project for the Piscine Shell 00
+This was the first real project for the November 2022 Piscine Shell 00
 
 # Contents
 
