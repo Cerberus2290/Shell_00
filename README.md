@@ -229,3 +229,5 @@ $
 * Create a magic file called **ft_magic** that will be formatted appropriately to detect files of **42 file** type, built with a **"42"** string at the <br>**42**nd byte.
 
 ### 💡 [man](https://man7.org/linux/man-pages/man1/file.1.html) **file**
+
+[back to top](https://github.com/Cerberus2290/Shell_00#-beware-)
