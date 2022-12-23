@@ -37,6 +37,10 @@ Z
 ?>
 ```
 
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
+
 # <a name="ex01">Exercise 01 : testShell00</a>
 
 | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 01 |
@@ -60,6 +64,10 @@ total 1
 ### ⚠️ Don’t worry about what you’ve got instead of "XX". ⚠️
 
 ### ⚠️ A year will be accepted instead of the time, on the timestamp of the file. ⚠️
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
 
 # <a name="ex02">Exercise 02 : Oh yeah, mooore...</a>
 
@@ -91,6 +99,10 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 
 ### ⚠️ A year will be accepted instead of the time, on the timestamp of the file. ⚠️
 
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
+
 # <a name="ex03">Exercise 03 : SSH me!</a>
 
 | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 03 |
@@ -107,6 +119,10 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 ### 💡 The file’s name was not chosen randomly. 💡
 ### 💡 Make sure you understand the difference between the public key and the private key. 💡
 
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
+
 # <a name="ex04">Exercise 04 : midLS</a>
 
 | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 04 |
@@ -120,6 +136,10 @@ lrwxrwxrwx 1 XX XX 5 Jun 1 22:20 test6 -> test0
 
 ### ⚠️ What has not been asked for should not be done! ⚠️
 ### 💡 RTFM!! 💡
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
 
 # <a name="ex05">Exercise 05 : GiT commit?</a>
 
@@ -146,6 +166,10 @@ e94d0b448c03ec633f16d84d63beaef9ae7e7be8$
 
 ### 💡 RTFM!! 💡
 
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
+
 # <a name="ex06">Exercise 06 : gitignore</a>
 
 | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 06 |
@@ -168,6 +192,10 @@ mywork.c~$
 * To test your script, we will use our own environment.
 
 ### 💡 RTFM!! 💡
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
 
 # <a name="ex07">Exercise 07 : diff</a>
 
@@ -202,6 +230,10 @@ $
 
 ### 💡 [man](https://man7.org/linux/man-pages/man1/patch.1.html) **patch** 💡
 
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
+
 # <a name="ex08">Exercise 08 : clean</a>
 
 | ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 08 |
@@ -216,6 +248,10 @@ $
 * Only one command is allowed: no ’;’ or ’&&’ or other shenanigans.
 
 ### 💡 [man](https://man7.org/linux/man-pages/man1/find.1.html) **find** 💡
+
+<p align="right">
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
+</p>
 
 # <a name="ex09">Exercise 09 : Illusions, not tricks, Michael...</a>
 
