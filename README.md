@@ -230,4 +230,6 @@ $
 
 ### 💡 [man](https://man7.org/linux/man-pages/man1/file.1.html) **file**
 
-[back to top](https://github.com/Cerberus2290/Shell_00#-beware-)
+<p align="right">
+[back to top](https://github.com/Cerberus2290/Shell_00#-beware-) 
+</p>
