@@ -231,5 +231,5 @@ $
 ### 💡 [man](https://man7.org/linux/man-pages/man1/file.1.html) **file**
 
 <p align="right">
-[back to top](https://github.com/Cerberus2290/Shell_00#-beware-) 
+ <a href="https://github.com/Cerberus2290/Shell_00#-beware-">back to top</a>
 </p>
