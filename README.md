@@ -168,3 +168,64 @@ mywork.c~$
 * To test your script, we will use our own environment.
 
 ### 💡 RTFM!! 💡
+
+# <a name="ex07">Exercise 07 : diff</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 07 |
+|-------------------------------------------------------|--------------------------------------------------|
+| | |
+| Turn-in directory: | ex07/ |
+| Files to turn in: | b |
+| Allowed functions: | None |
+
+* Create a file b, so that:
+
+```
+%>cat -e a
+STARWARS$
+Episode IV, A NEW HOPE It is a period of civil war.$
+$
+Rebel spaceships, striking from a hidden base, have won their first victory against the evil
+Galactic Empire.$
+During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the
+DEATH STAR,$
+an armored space station with enough power to destroy an entire planet.$
+$
+Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of
+the stolen plans that can save her people and restore freedom to the galaxy...$
+$
+```
+
+```
+%>diff a b > sw.diff
+```
+
+### 💡 [man](https://man7.org/linux/man-pages/man1/patch.1.html) **patch** 💡
+
+# <a name="ex08">Exercise 08 : clean</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 08 |
+|-------------------------------------------------------|--------------------------------------------------|
+| | |
+| Turn-in directory: | ex08/ |
+| Files to turn in: | clean |
+| Allowed functions: | None |
+
+* In a file called clean place the command line that will search for all files - in the current directory as well as in its sub-directories - <br>with a name ending by ~, or a name that start and end by #
+* The command line will show and erase all files found.
+* Only one command is allowed: no ’;’ or ’&&’ or other shenanigans.
+
+### 💡 [man](https://man7.org/linux/man-pages/man1/find.1.html) **find** 💡
+
+# <a name="ex09">Exercise 09 : Illusions, not tricks, Michael...</a>
+
+| ![Logo_Monolith_small](https://user-images.githubusercontent.com/120580537/209333599-dc44418d-8ee7-42b6-8a4a-7ff328778d87.png) | Exercise 09 |
+|-------------------------------------------------------|--------------------------------------------------|
+| | Illusions, not tricks, Michael... |
+| Turn-in directory: | ex09/ |
+| Files to turn in: | ft_magic |
+| Allowed functions: | None |
+
+* Create a magic file called **ft_magic** that will be formatted appropriately to detect files of **42 file** type, built with a **"42"** string at the <br>**42**nd byte.
+
+### 💡 [man](https://man7.org/linux/man-pages/man1/file.1.html) **file**
